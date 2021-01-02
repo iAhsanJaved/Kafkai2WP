@@ -1,0 +1,15 @@
+kafkai_email = "hello@email.com"
+kafkai_password = "pass123"
+
+[[websites]]
+url = "http://www.wpweb1.com"
+username = "admin"
+password = "pass123"
+niche = "Fashion"
+
+[[websites]]
+url = "http://www.wpweb2.com"
+username = "admin"
+password = "pass321"
+niche = "Business"
+
